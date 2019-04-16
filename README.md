@@ -1,2 +1,2 @@
-# c-to-javascript
-Estruturas em C feitas em JavaScript (NodeJs)
+# C structures made in JavaScript || Estruturas em C feitos em JavaScript
+cmd: node <filename>.js
